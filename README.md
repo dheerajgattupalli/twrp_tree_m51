@@ -1,2 +1,5 @@
-# twrp_tree_m51
-Repo for Device Tree M51
+# Samsung Galaxy M515F (m51) device tree for TWRP
+
+twrp_android_device_samsung_m51
+
+A71 Source taken as base from https://github.com/ianmacd/twrp_a71
